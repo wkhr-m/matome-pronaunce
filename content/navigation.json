@@ -1,0 +1,25 @@
+[
+  {
+    "id": "consonant",
+    "title": "子音",
+    "children": []
+  },
+  {
+    "id": "other",
+    "title": "その他",
+    "children": [
+      {
+        "id": "american-flap-t",
+        "title": "American T: t=t, t-soft"
+      },
+      {
+        "id": "syllable",
+        "title": "音節"
+      },
+      {
+        "id": "",
+        "title": ""
+      }
+    ]
+  }
+]
